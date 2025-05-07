@@ -15,15 +15,15 @@
     "title": "Operating across Markets",
         "icons": [
             {
-              "src": "https://flagcdn.com/96x72/us.png",
+              "src": "/flags/us.png",
               "alt": "USA Flag"
             },
             {
-              "src": "https://flagcdn.com/w80/tz.png",
+              "src": "/flags/tz.png",
               "alt": "Tanzania Flag"
             },
             {
-              "src": "https://flagcdn.com/w80/ke.png",
+              "src": "/flags/ke.png",
               "alt": "Kenya Flag"
             }
       ]
