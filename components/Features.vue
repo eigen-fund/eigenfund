@@ -11,13 +11,13 @@ const props = defineProps({
     class="text-3xl font-bold text-center text-zinc-800 sm:text-4xl"
     v-if="title"
   >
-    {{ title }}
+    How we operate 
   </h2>
   <p
     class="max-w-3xl mx-auto mt-4 text-lg text-center text-zinc-600"
     v-if="description"
   >
-    {{ description }}
+    We deploy sophisticated technologies to make markets more efficient, transparent and fair. This is possible because we have some of the sharpest engineers, technologists, traders and professionals in the world. Our commitment to our people is to give them the tools, training and flexibility they need to be successful. 
   </p>
   <div class="grid gap-8 mt-10 mb-20 md:grid-cols-2">
     <div

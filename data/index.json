@@ -1,63 +1,53 @@
 {
   "hero": {
-    "title": "Build Blazing-Fast Websites with Nuxt.js & Netlify",
-    "description": "Craft high-performing, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify's global edge network.",
-    "image": "images/hero.jpg",
-    "imageAlt": "Nuxt logo and title on abstract background",
+    "title": "Solving Liquidity for the African Stock Markets",
+    "description": "We are a privately held, global trading firm, specializing in proprietary investments in equities, derivative products, and venture capital for the US and East African markets. We deploy both quantitative/high-frequency and fundamental trading strategies.",
+    "image": "images/hero.avif",
+    "imageAlt": "Eigen Fund",
     "buttons": [
       {
         "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "url": "https://www.eigenfund.com/"
       }
     ]
   },
   "logos": {
-    "title": "Trusted by the world's best",
-    "icons": [
-      {
-        "name": "i-simple-icons-gitlab"
-      },
-      {
-        "name": "i-simple-icons-github"
-      },
-      {
-        "name": "i-simple-icons-openai"
-      },
-      {
-        "name": "i-simple-icons-google"
-      },
-      {
-        "name": "i-simple-icons-netlify"
-      }
-    ]
+    "title": "Operating across Markets",
+        "icons": [
+            {
+              "src": "https://flagcdn.com/96x72/us.png",
+              "alt": "USA Flag"
+            },
+            {
+              "src": "https://flagcdn.com/w80/tz.png",
+              "alt": "Tanzania Flag"
+            },
+            {
+              "src": "https://flagcdn.com/w80/ke.png",
+              "alt": "Kenya Flag"
+            }
+      ]
   },
   "features": {
-    "title": "Why choose Nuxt.js?",
-    "description": "Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.",
+    "title": "How we operate",
+    "description": "We deploy sophisticated technologies to make markets more efficient, transparent and fair. This is possible because we have some of the sharpest engineers, technologists, traders and professionals in the world. Our commitment to our people is to give them the tools, training and flexibility they need to be successful.",
     "items": [
       {
-        "title": "Server-Side Rendering",
-        "description": "Nuxt.js allows you to build SSR applications with Vue.js, ensuring fast initial page loads and better SEO."
+        "title": "Lowering trading costs",
+        "description": "Eigen Fund lowers overall trading costs for market participants by delivering higher execution quality using cutting-edge technology deployment"
+      },
+
+      {
+        "title": "Improving the overall transparency",
+        "description": "We maintain the transparency of the financial ecosystem by quoting bid and ask prices for financial products which market participants can trade against. "
       },
       {
-        "title": "Static Site Generation",
-        "description": "You can pre-render pages at build time for static websites. This helps with performance and scalability by serving content directly from a CDN."
+        "title": "Providing Liquidity",
+        "description": "We provide ‘off-exchange’ liquidity by trading bilaterally with institutional counterparties, often through Request-for-Quote platforms."
       },
       {
-        "title": "Auto-Routing",
-        "description": "Nuxt automatically generates routes based on the file structure inside the pages directory, reducing the need for manual configuration."
-      },
-      {
-        "title": "File-based Configuration",
-        "description": "Nuxt uses a convention-over-configuration approach, allowing you to define configurations easily in nuxt.config.js without much boilerplate."
-      },
-      {
-        "title": "Dynamic Imports",
-        "description": "It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks."
-      },
-      {
-        "title": "SEO Friendly",
-        "description": "With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly."
+        "title": "Improving Market Efficiency",
+        "description": "We make it easier for investors to buy and sell financial products at a quote price that reflects the current price of the underlying asset."
       }
     ]
   },
@@ -92,12 +82,12 @@
     ]
   },
   "cta": {
-    "title": "Start Building with Nuxt & Netlify",
-    "description": "Let your next project be smarter, faster, and effortlessly deployable.",
+    "title": "Find out more how we operate",
+    "description": "We partner with institutions and exchanges that align with our core mission - to bring transparency and efficiency to African financial markets.",
     "buttons": [
       {
-        "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "label": "Contact Us",
+        "url": "mailto:biz@eigenfund.com"
       }
     ]
   }
