@@ -1,20 +1,15 @@
-# Nuxt Starter
+# Eigen Fund Website 
 
-![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
+![Eigen Fund Website Preview](eigen-fund-site-preview.png)
 
 ---
 
-Nuxt Starter is a minimal template designed for creating quick landing pages, built with Nuxt 3 and Tailwind CSS.
+Eigen Fund Website uses Nuxt 3 and Tailwind CSS.
 
-**View demo:** [https://demo-nuxt-starter.netlify.app/](https://demo-nuxt-starter.netlify.app/)
 
 ## Deploy to Netlify
 
-Want to deploy immediately? Click this button
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nuxt-starter)
-
-Clicking this button will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+This web application is running on Netlify
 
 ## Features
 
@@ -76,6 +71,3 @@ Here are a few suggestions on what to do next:
 - Check [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 - Explore [Tailwind CSS documentation](https://tailwindcss.com/docs) for styling options
 
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
