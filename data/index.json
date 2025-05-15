@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Solving Liquidity for the African Stock Markets",
-    "description": "We are a privately held, global trading firm, specializing in proprietary investments in equities, derivative products, and venture capital for the US and East African markets. We deploy both quantitative/high-frequency and fundamental trading strategies.",
+    "description": "We are a privately held firm, specialising in proprietary investments and advisory in equities and derivative products for the US and East African markets. We deploy both quantitative (medium-frequency) and fundamental trading strategies.",
     "image": "images/hero.avif",
     "imageAlt": "Eigen Fund",
     "buttons": [
@@ -33,17 +33,16 @@
     "description": "We deploy sophisticated technologies to make markets more efficient, transparent and fair. This is possible because we have some of the sharpest engineers, technologists, traders and professionals in the world. Our commitment to our people is to give them the tools, training and flexibility they need to be successful.",
     "items": [
       {
-        "title": "Lowering trading costs",
-        "description": "Eigen Fund lowers overall trading costs for market participants by delivering higher execution quality using cutting-edge technology deployment"
-      },
-
-      {
-        "title": "Improving the overall transparency",
-        "description": "We maintain the transparency of the financial ecosystem by quoting bid and ask prices for financial products which market participants can trade against. "
-      },
-      {
         "title": "Providing Liquidity",
         "description": "We provide ‘off-exchange’ liquidity by trading bilaterally with institutional counterparties, often through Request-for-Quote platforms."
+      },
+      {
+        "title": "Sharing Quantitative Strategies",
+        "description": "We provide in-depth white-papers and backtest results that aids portfolio managers in risk management, portfolio optimization, and alpha generation."
+      },
+      {
+        "title": "Providing Macro & Technical Strategies",
+        "description": "We have a huge research database that collects and monitors key market events and data. We provide daily/weekly digests of the markets structural analysis, sentiment, commentary and charts updates"
       },
       {
         "title": "Improving Market Efficiency",
